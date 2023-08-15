@@ -4,18 +4,12 @@
 python DGI_main.py
 ```
 
-## 2. Experimental results (link prediction task)
-- Cora dataset
+## 2. Experimental results
+Evaluates latent space quality via a logistic regression downstream task.
 
-| Methods  |  AUC  |  AP  |
+| Methods  |  Cora  |  Citeseer  |
 | :---: | :---: | :---: |
-|  GAE  |  0.9178  | 0.9228 |
+|  GAE  |  0.8090  | 0.7010 |
 
-- Citeseer dataset
-
-| Methods  |  AUC  |  AP  |
-| :---: | :---: | :---: |
-|  GAE  | 0.8714 | 0.8801 |
-
-## 3. Introduction to GAE
-https://blog.csdn.net/qq_39422822/article/details/131655599
+## 3. Introduction to DGI
+https://blog.csdn.net/qq_39422822/article/details/131812127
