@@ -9,7 +9,7 @@ Evaluates latent space quality via a logistic regression downstream task.
 
 | Methods  |  Cora  |  Citeseer  |
 | :---: | :---: | :---: |
-|  GAE  |  0.8090  | 0.7010 |
+|  DGI  |  0.8090  | 0.7010 |
 
 ## 3. Introduction to DGI
 https://blog.csdn.net/qq_39422822/article/details/131812127
